@@ -1,0 +1,5 @@
+# Ignore Jupyter checkpoint folder
+ipynb_checkpoints/
+
+# Ignore specific .f file
+strat_test_set.f
